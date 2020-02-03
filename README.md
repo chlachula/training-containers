@@ -1,4 +1,4 @@
-# Container Demo
+# Container Demo: Josef's
 ## Summary
 This repo provides a series of demos that start with a simple "Hello World"
 Java app and creates a Docker image that can be run either standalone or as
